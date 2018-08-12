@@ -930,3 +930,5 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Fantastic PHP-related magazines.*
 
 * [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
+
+@kolier
